@@ -11,7 +11,7 @@ import SwiftUI
 struct IIT_Neurobiological_ApplicationsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            IITNeurobiologicalApplicationsView()
         }
     }
 }
